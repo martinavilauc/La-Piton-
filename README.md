@@ -2,7 +2,7 @@
 el juego de Snake pero es una piton.  
 hssssss  
 🐍🐍🐍  
-#Controles:  
+# Controles:  
 -Flechas: Moviemiento  
 -R: Restart  
 -Espacio:Cambiar Velocidad  
